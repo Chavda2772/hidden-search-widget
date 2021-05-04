@@ -10,7 +10,7 @@ show search widget on click of search button.
 
 ## 🌱 Preview 🌱
 
-<img src="" alt="Hidden Search Widget" width="400" height="400" />
+<img src="https://raw.githubusercontent.com/Chavda2772/hidden-search-widget/main/images/search_widget-min.jpg" alt="Hidden Search Widget" width="400" height="400" />
 
 ## :crossed_swords: Technical Brief Description :crossed_swords:
 
